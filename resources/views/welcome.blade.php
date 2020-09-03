@@ -4,7 +4,7 @@
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon-->
-	<link rel="shortcut icon" href="{{ asset('img/fav.png') }}">
+	<link rel="shortcut icon" href="{{ asset('img/logo.png') }}">
 	<!-- Author Meta -->
 	<meta name="author" content="Colorlib">
 	<!-- Meta Description -->
@@ -14,7 +14,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Pemodule</title>
+	<title>PhotoShare</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,300,500,600" rel="stylesheet">
 		<!--
